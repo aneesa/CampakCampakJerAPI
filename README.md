@@ -33,6 +33,6 @@ Clone the repository: `git clone https://ailuromaniac@bitbucket.org/ailuromaniac
 
 ## OpenShift Environment (test)
 
-REST API Server: http://campakcampakjer-ailuromaniac.rhcloud.com
+REST API Server: http://campakcampakjerapi-ailuromaniac.rhcloud.com
 
-For example, to see all the recipes in the  test db, view in browser at http://campakcampakjer-ailuromaniac.rhcloud.com/api/campakcampakjer/recipes
+For example, to see all the recipes in the  test db, view in browser at http://campakcampakjerapi-ailuromaniac.rhcloud.com/api/recipes
