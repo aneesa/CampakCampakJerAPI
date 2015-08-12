@@ -8,5 +8,9 @@
     "mongoose": "^4.1.2",
     "morgan": "^1.6.1",
     "restify": "^2.8.5"
-  }
+  },
+  "scripts"	: {
+    "start"		: "node server.js"
+  },
+  "main"	: "server.js"
 }
