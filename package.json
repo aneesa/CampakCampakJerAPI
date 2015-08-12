@@ -1,0 +1,12 @@
+{
+  "name": "CampakCampakJerAPI",
+  "version": "0.1.0",
+  "description": "A REST API server for CampakCampakJer app",
+  "main": "server.js",
+  "author": "Aneesa Awaludin",
+  "dependencies": {
+    "mongoose": "^4.1.2",
+    "morgan": "^1.6.1",
+    "restify": "^2.8.5"
+  }
+}
